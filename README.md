@@ -1,6 +1,6 @@
 👋 Oi, eu sou @Joainkapa
 
-👀 Estou interessado em Python(Data Science, Automação)(BackEnd - Front(Django))
+👀 Estou interessado em Python(Data Science, Automação)(Desenvolvimento Web(Django))
 
 🌱 Estou aprendendo Python(BackEnd)
 
