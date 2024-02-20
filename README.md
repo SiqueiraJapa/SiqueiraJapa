@@ -1,9 +1,9 @@
-👋 Oi, eu sou @Joainkapa
+👋 Oi, eu sou @GabrielSiqueira
 
-👀 Estou interessado em Python(Data Science, Automação)(Desenvolvimento Web(Django))
+🌱 Sou um júnior na área de front-end.
 
-🌱 Estou aprendendo Python(BackEnd)
+👀 Estou interessado em vagas para atua como um front-end júnior.
 
 💞️ Estou procurando colaborar em Projetos Iniciantes Para Adquirir Mais Conhecimento
 
-📫 Como chegar até mim Email: siqueiragabriel134@gmail.com | Assunto: Github | O Assunto é Para Eu Identificar Que é Sobre Meu Github.
+📫 Como chegar até mim Email: siqueiragabriel134@gmail.com | Assunto: Github | 
